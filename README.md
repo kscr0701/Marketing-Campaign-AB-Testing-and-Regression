@@ -1,2 +1,2 @@
 # Marketing-Campaign-AB-Testing-and-Regression
-solving real world marketing problems by finding insights 
+solving real world marketing campaign problems by finding insights 
